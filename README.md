@@ -1,2 +1,1 @@
-# deckstring
-immutable Bugbounty POC by @nvk0x
+# Immutable Bugbounty POC by @nvk0x
